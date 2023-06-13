@@ -2,6 +2,8 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
 
+// pretty much wrote a large chunk of this code, specifically the method called 'rogersChunk', as well as the entirety of the three questions and murder mystery program. Also wrote the method that calls the thirdquestion method to move on with the game.
+// old project but pretty fun to look back on!
 
 public class Portal2{
   public static void main(String[] args) {
