@@ -811,7 +811,7 @@ allows you to decide who's the murderer.
       System.out.println("");
       System.out.print("What would you like to do?: ");
       String decision = input.nextLine();
-
+// switch statement would've been better
       if(decision.equalsIgnoreCase("search")){
         System.out.print("Who's background would you like to search for?: ");
         int search = input.nextInt();
